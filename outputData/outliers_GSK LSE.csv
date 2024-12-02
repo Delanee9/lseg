@@ -1,0 +1,2 @@
+Stock-ID,Timestamp,"actual stock price at that timestamp","mean of 30 data points","actual stock price – mean","% deviation over and above the threshold"
+GSK,22-10-2023,1803.02,1771.9903333333334,14.834112148093721,104.58889064909114

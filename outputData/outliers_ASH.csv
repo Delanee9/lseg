@@ -1,0 +1,3 @@
+Stock-ID,Timestamp,"actual stock price at that timestamp","mean of 30 data points","actual stock price – mean","% deviation over and above the threshold"
+ASH,28-09-2023,103.27,106.29166666666667,1.2332668901021482,122.50659978459322
+ASH,29-09-2023,103.27,106.29166666666667,1.2332668901021482,122.50659978459322

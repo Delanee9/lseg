@@ -1,0 +1,1 @@
+Stock-ID,Timestamp,"actual stock price at that timestamp","mean of 30 data points","actual stock price – mean","% deviation over and above the threshold"

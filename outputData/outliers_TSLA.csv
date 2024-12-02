@@ -1,0 +1,2 @@
+Stock-ID,Timestamp,"actual stock price at that timestamp","mean of 30 data points","actual stock price – mean","% deviation over and above the threshold"
+TSLA,10-12-2023,214.89,206.80900000000003,3.7575464956094264,107.53027287143821
